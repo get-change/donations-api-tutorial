@@ -1,7 +1,7 @@
-# Donation API tutorial
-This is a basic integration of [Change](https://getchange.io) donation APIs in an application.
+# Donations API tutorial
+This is a basic integration of [Change](https://getchange.io) donations API in an application.
 
-Check out this blog post as a guide or use the code in this repo as a power up to getting started using Change!
+Check out [this blog post](https://docs.getchange.io/recipes/donations-tutorial) as a guide or use the code in this repo as a power up to getting started using Change!
 
 And for more APIs from Change check out our [docs](https://docs.getchange.io/getting-started).
 
